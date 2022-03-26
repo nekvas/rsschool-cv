@@ -6,7 +6,7 @@
 
 ---
 
-- #### Contact details:
+- ### Contact details:
   - Phone: +375 296215625
   - GitHub: nekvas
   - Email: nekvas78@gmail.com
@@ -14,7 +14,7 @@
 
 ---
 
-- About myself:
+- ### About myself:
 
 I have a higher education - construction. I worked as an engineer in construction, but this work did not bring me pleasure.
 
@@ -22,7 +22,7 @@ I really enjoy learning new things for myself. The strong side of my character i
 
 ---
 
-- Skills and Proficiency:
+- ### Skills and Proficiency:
 
   - VS Code
   - Git, GitHub
@@ -30,7 +30,7 @@ I really enjoy learning new things for myself. The strong side of my character i
 
 ---
 
-- Code Example:
+- ### Code Example:
 
 ```
 <!DOCTYPE html>
@@ -67,19 +67,19 @@ I really enjoy learning new things for myself. The strong side of my character i
 
 ---
 
-- Work experience:
+- ### Work experience:
 
 I don't have experience in JS and Frontend development yet, but it should definitely appear.
 
 ---
 
-- Education:
+- ### Education:
 
   - University: Belarusian National Technical University, industrial and civil construction - civil engineer
   - Bachelor of Engineering
 
 ---
 
-- Languages:
+- ### Languages:
   - Russian - native
   - English - A1 beginner - I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
