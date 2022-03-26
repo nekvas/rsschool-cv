@@ -10,6 +10,7 @@
   - Phone: +375 296215625
   - GitHub: nekvas
   - Email: nekvas78@gmail.com
+  - Facebook: [Vasilii Nekazakov] (https://www.facebook.com/people/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9-%D0%9D%D0%B5%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2/100041975410089/ "You can go")
 
 ---
 
