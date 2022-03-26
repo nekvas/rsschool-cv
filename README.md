@@ -1,3 +1,1 @@
-# rsschool-cv
-
-## Nekazakov Vasiliy
+https://nekvas.github.io/rsschool-cv/cv
