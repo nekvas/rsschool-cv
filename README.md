@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nekvas.github.io/rsschool-cv/
